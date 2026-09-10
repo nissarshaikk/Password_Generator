@@ -7,6 +7,7 @@ The Password Generator is a simple Python application that creates secure and ra
 This project demonstrates the use of Python modules such as random and string, loops, user input handling, and basic program logic.
 
 🚀 Features
+
 Generate strong and secure passwords
 User-defined password length
 Includes:
@@ -20,19 +21,25 @@ Simple command-line interface
 Python 3
 Random Module
 String Module
+
 📂 Project Structure
+
 Password_Generator/
 │
 ├── password_generator.py
 └── README.md
+
 ⚙️ Installation & Usage
-Clone the Repository
-git clone https://github.com/your-username/password-generator.git
-Navigate to the Project Directory
-cd password-generator
-Run the Program
-python password_generator.py
+
+1.Clone the Repository
+2.git clone https://github.com/your-username/password-generator.git
+3.Navigate to the Project Directory
+4.cd password-generator
+5.Run the Program
+6.python password_generator.py
+
 💻 Sample Output
+
 ENTER YOUR PASSWORD LENGTH: 8
 
 Generated Password: A@9k#2Lp
@@ -46,7 +53,9 @@ Generated Password: m&7Pq!4Rz@8L
 Do you want to generate another password (yes/no): no
 
 THANK YOU FOR USING PASSWORD GENERATOR!
+
 🔍 How It Works
+
 User enters the desired password length.
 Program combines letters, digits, and special characters.
 Random characters are selected to create a password.
